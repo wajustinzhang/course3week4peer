@@ -1,3 +1,5 @@
+For details of each variable, please refer to this link for the orginal data:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 # Details of the tidydata.txt
 1) Read data in R:
    tidy_data<-read.table("tidydata.txt")
