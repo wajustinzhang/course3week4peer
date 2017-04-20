@@ -1,6 +1,6 @@
 # course3week4peer
 
-#Script run_analysis.R
+# Script run_analysis.R
 This is the script used to generate the tidy dataset, the generated tidy data set is in file "tidydata.txt"
 
 # How to run script, 
@@ -9,9 +9,9 @@ This is the script used to generate the tidy dataset, the generated tidy data se
 3) In the R console, type: source("run_analysis.R"), it will generate the "tidydata.txt" in the same folder.
 
 # Details of the tidydata.txt
-The tidydata is created a data table, each observation (row data) is average of each variable for each activity and each subject.
+## The tidydata is created a data table, each observation (row data) is average of each variable for each activity and each subject.
 
-There are totally 81 variables as follows:
+## There are totally 81 variables as follows:
 
 "subject"    ---- The subject No.
 "activity_label"  -- The activity lable
