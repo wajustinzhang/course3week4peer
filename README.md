@@ -18,7 +18,7 @@ There are totally 81 variables as follows:
 
 Following are only the measurements on the mean and standard deviation for each measurement (defined from "features.txt")
 
-"tBodyAcc-mean()-X" 
+"tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y" 
 "tBodyAcc-mean()-Z"  
 "tBodyAcc-std()-X" 
@@ -91,10 +91,9 @@ Following are only the measurements on the mean and standard deviation for each 
 "fBodyBodyAccJerkMag-mean()" 
 "fBodyBodyAccJerkMag-std()"
 "fBodyBodyAccJerkMag-meanFreq()"
-"fBodyBodyGyroMag-mean()" 
-"fBodyBodyGyroMag-std()" 
-"fBodyBodyGyroMag-meanFreq()" 
-"fBodyBodyGyroJerkMag-mean()" 
-"fBodyBodyGyroJerkMag-std()" 
+"fBodyBodyGyroMag-mean()"
+"fBodyBodyGyroMag-std()"
+"fBodyBodyGyroMag-meanFreq()"
+"fBodyBodyGyroJerkMag-mean()"
+"fBodyBodyGyroJerkMag-std()"
 "fBodyBodyGyroJerkMag-meanFreq()"
-
