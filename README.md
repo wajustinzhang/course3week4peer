@@ -10,9 +10,12 @@ This is the script used to generate the tidy dataset, the generated tidy data se
 * 
 
 # Details of the tidydata.txt
-1) The tidydata is created a data table, each observation (row data) is average of each variable for each activity and each subject.
+1) read data in R:
+   tidy_data<-read.table("tidydata.txt")
+   
+2) Each observation (row data) in the tidy data set is average of each variable for each activity and each subject.
 
-2) There are totally 81 variables as follows:
+3) There are totally 81 variables as follows:
 
 *  "subject"    ---- The subject No.
 *  "activity_label"  -- The activity lable
